@@ -1,6 +1,6 @@
 # Rémy Lallemand
 
-🧭 **Product Ops & PM & AI Builder** — *I automate what product teams still do by hand.*
+🧭 **Product Ops & PM & AI Builder** — *I automate what product teams still do by hand and I build products from concept to launch.*
 
 Documentation run as a product. Workflows instead of busywork. AI woven into the
 toolchain. And when the tool doesn't exist yet, I build it — then I run it.
